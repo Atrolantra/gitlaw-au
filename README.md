@@ -5,9 +5,7 @@ Ever wondered what it would look like if Australian Legislation was available in
 * [New Zealand has done it](https://github.com/wombleton/gitlaw-nz)
 * [Germany has done it](http://bundestag.github.io/gesetze/)
 
-gitlaw-au is my 2015 #govhack project
-
-I didn't quite make it for GovHack.... oh well!
+Picking up from where the original by [xlfe](https://github.com/xlfe) ended.
 
 ### Browse current acts in Markdown (As of 5 July 2015)
 
