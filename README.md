@@ -44,7 +44,7 @@ Text is extracted, but there's still some weird formatting and additional style 
 and still missing much of the structure (no table conversion is attempted)
 
 - [x] Get a list of all current acts and their ComLawID [acts_current.txt](https://github.com/xlfe/gitlaw-au/blob/master/src/acts_current.txt)
-- [ ] Update [spider.py](https://github.com/xlfe/gitlaw-au/blob/master/src/spider.py) to correctly crowl the legislation for updates.
+- [ ] Update [spider.py](https://github.com/xlfe/gitlaw-au/blob/master/src/spider.py) to correctly crawl the legislation for updates.
 - [x] Get a list of all the RTF/DOC/DOCx versions and volumes of those acts [details_current.json](https://github.com/xlfe/gitlaw-au/blob/master/src/details_current.txt)
 - [x] Download all the relevant RTF/DOC/DOCx files [Amazon S3](https://s3.amazonaws.com/gitlaw-au/gitlaw-au-current-2015-07-05.tar.gz)
 - [ ] Extract structure of documents and convert to Markdown (in progress)
